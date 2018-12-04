@@ -1,0 +1,75 @@
+<i>= fonts change
+<br>= breakline
+<u>= underline
+<hr>= line
+<mark>=
+<sub>=power 
+<sup>=power
+<strong></strong> =bold
+<h1><h6>
+<p>
+<b>= bold
+<span>=color of particular part
+<h2 style="text-align: center; margin-right: 357px">rjit</
+ol= order list
+li>
+ul= unorder list 
+.hello{
+	height:200px;
+	width:250px;
+	background-color:lightblue;
+	border:2px solid blue;
+	float right;
+}
+ <body>
+ <div class="hello"></div> d
+ padding 
+ <link rel="styleshet" type"text/css" href"css/ex.css"</link>
+<blockquote>
+padding: 50px;
+<table>
+<tr>= table row
+<th>= table heading
+
+</tr>
+<td></td>=table data
+<table>= cellpadding,cellspacing
+unorderlist type=cricle,square ,image
+orderlist type=a,A/ i,I .
+task formatting property=
+ color align text decoration
+ text tranform
+ lateral spacing
+  bud spacing
+   line height
+  text decoration=
+  line through
+  underline
+  none
+
+  text transform
+  lowercase
+  uppercase
+  capitalize
+
+
+list property=
+order list
+unorder list
+list style type; circle, square, none ,lower- roman, lower-alpha.
+list style position; inside, outside.
+
+list style image.url
+
+opacity property
+0.0 to 1.0
+
+&nbsp= space
+
+display property=
+display none
+visibility hidden
+del= delete
+pre= space
+div= division tag
+
