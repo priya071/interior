@@ -1,0 +1,37 @@
+body{
+	background-color: brown;
+}
+.header{
+	border: 3px solid black;
+	width: 1350px;
+	height: 100px;
+	float: left;
+}
+.menu{
+	border: 3px solid green;
+	width: 1350px;
+	height: 65px;
+	margin-top: 28px;
+}
+ul li{
+	    display: inline-block;
+    background: yellow;
+    
+    width: 105px;
+    height: 49px;
+    text-align: center;
+    color: white;
+    line-height: 46px;
+    font-weight: 100;
+}
+ul li a{
+	color: white;
+		text-decoration: none;
+
+}
+ul li:hover{
+	background:black;
+}
+.active{
+	background:green;
+}

@@ -73,3 +73,18 @@ del= delete
 pre= space
 div= division tag
 
+git hub
+git config -- global user.name"sam smith"
+git config -- global user.email"sam@exmaple.com"
+git init
+git status
+git add -A
+git commit -m "commit message"
+(git remote add origin
+https://github.com/fristmentor/pn1.git)
+
+git push origin master
+git clone /path/to/repository
+git push orgini<branchname>
+
+

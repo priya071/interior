@@ -85,3 +85,13 @@ border: 3px solid red;
 	width: 400px;
 	height: 500px;
 }
+.last{
+	border:3px solid green;
+	width: 1300px;
+	height: 280px;
+}
+.header{
+	border: 3px solid black;
+	width: 1300px;
+	height: 600px;
+}
