@@ -1,0 +1,9 @@
+.background-border{
+	border: 3px solid black;
+	background:url(../img/apj.jpg);
+	background-repeat:no-repeat;
+	background-position: right left;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
